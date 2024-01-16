@@ -9,7 +9,7 @@ params:
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["portaledge-writing/assets/images/platypus.png"]
+  images: ["images/platypus.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -20,9 +20,9 @@ params:
     enabled: true # needs to be explicitly set
     title: Portaledge writing
     subtitle: I'm a platypus. There are clearly multiple layers in this story.
-    imageUrl: "portaledge-writing/assets/images/platypus.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "images/platypus.png"
+    imageWidth: 96
+    imageHeight: 96
     imageTitle: platypus
     buttons:
       - name: Posts
