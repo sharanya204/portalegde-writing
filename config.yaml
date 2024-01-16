@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Portaledge writing
-    subtitle: This is subtitle
+    subtitle: I'm a platypus. There are clearly multiple layers in this story.
     imageUrl: "portaledge-writing/assets/images/platypus.png"
     imageWidth: 120
     imageHeight: 120
