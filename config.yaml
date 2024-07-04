@@ -19,16 +19,16 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Portaledge writing
-    subtitle: I'm a platypus. There are clearly multiple layers in this story.
+    subtitle: I'm a platypus. There are multiple layers to this story.
     imageUrl: "images/platypus.png"
     imageWidth: 96
     imageHeight: 96
     imageTitle: platypus
     buttons:
-      - name: Posts
+      - name: Stuff I've written
         url: posts
-      - name: Tags
-        url: tags
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
