@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Portaledge writing
-    subtitle: I'm a platypus. There are multiple layers to this story.
+    subtitle: A platypus with a pen.
     imageUrl: "images/platypus.png"
     imageWidth: 96
     imageHeight: 96
@@ -33,7 +33,7 @@ params:
   # home-info mode
   homeInfoParams:
       Title: "Hi there \U0001F44B"
-      Content: Welcome to my blog
+      Content: Welcome to my portaledge
 menu:
   main:
     - identifier: categories
