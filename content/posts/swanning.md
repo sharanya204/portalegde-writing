@@ -13,6 +13,6 @@ Three of four of my limbs were wedged inside a narrow granite chute while my bod
 
 I abandoned fruitless efforts and dangled there, held up by my extremities like some kind of partially dismembered spider. The sun beat down upon me.
 
-The day had begun as any other day at Camp 4 began: being woken up at the crack of dawn by a bus vomiting tourists at the Yosemite Falls parking lot. My partner and I split a breakfast bar, and forewent coffee: we were angling for an early start to beat the heat and the crowds. The occasion? The culmination of a sparse three hours of instruction in the dark arts of placing trad climbing gear, and my first trad lead. 
+The day had begun as any other day at Camp 4 began: being woken up at the crack of dawn by a bus vomiting tourists at the Yosemite Falls parking lot. My partner and I split a breakfast bar, and forewent coffee: we were angling for an early start to beat the heat and the crowds. The occasion was the glorious culmination of a sparse three hours of instruction in the dark arts of placing trad climbing gear: my first trad lead. 
 
 I thought about our neighbors at camp, probably clinging to steel cables halfway up the snake slick hunchback of Half Dome and briefly envied them their day. I tried to remind myself that I'd climbed swan slab gulley before, that the climbing is so inconsequential to anyone familiar with the activity that it isn't any harder than a brisk walk.
