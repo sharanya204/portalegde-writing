@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'Writing to a portaledge'
+title: 'A platypus with a pen'
 theme: [PaperMod]
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -33,7 +33,7 @@ params:
   # home-info mode
   homeInfoParams:
       Title: "Hi there \U0001F44B"
-      Content: Welcome to my portaledge
+      Content: Welcome to my portaledge.
 menu:
   main:
     - identifier: categories
