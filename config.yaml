@@ -5,7 +5,7 @@ theme: [PaperMod]
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 'Writing to a portaledge'
-  description: "Sharanya writes about making it to a portaledge"
+  description: "Sharanya writes about making it to various portaledges"
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -18,7 +18,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Portaledge writing
+    title: 'Writing to a portaledge'
     subtitle: A platypus with a pen.
     imageUrl: "images/platypus.png"
     imageWidth: 96

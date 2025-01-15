@@ -9,4 +9,4 @@ series: ["Noodling"]
 #   image: images/platypus.png
 #   caption: "a platypus"
 ---
-I'm an extremely ardent climber of rocks.
+I am...
