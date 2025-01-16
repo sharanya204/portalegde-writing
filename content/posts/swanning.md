@@ -13,7 +13,8 @@ Three of four of my limbs were wedged inside a narrow granite chute while my bod
 
 I abandoned fruitless efforts and dangled there, held up by my extremities like some kind of partially dismembered spider. The sun beat down upon me.
 ---
-** On the ground **
+
+**On the ground**
 
 The day had begun as any other day at Camp 4 began: being woken up at the crack of dawn by a bus vomiting tourists at the Yosemite Falls parking lot. My partner and I split a breakfast bar, and forewent coffee: we were angling for an early start to beat the heat and the crowds. The occasion was the glorious culmination of a sparse three hours of instruction in the dark arts of placing trad climbing gear: my first time leading a trad climb. 
 
